@@ -6,6 +6,10 @@ In this project we compare various machine learning algorithms for the classific
 Shoppers Purchasing Intention Data Set](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset).
 The instances of the dataset are imbalanced, so special care is needed. 
 
+The full report can be found in the `report.pdf` file.
+
+# Contents
+
 We begin the study with a few basic classsifiers:
 - Decision Trees
 - K-Nearest Neighbor
